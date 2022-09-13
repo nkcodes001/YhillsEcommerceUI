@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   background-color: rgba(161, 237, 228, 0.97);
+
+
+}
+.contact{
+    text-align: center;
+    border: 12px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+background-color: rgb(234, 255, 172);
+
+}
